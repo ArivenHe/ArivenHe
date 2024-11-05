@@ -12,7 +12,7 @@ I'm a passionate **Front-End Developer** who loves to craft beautiful, interacti
 - 🌱 Always up for challenges and collaborating on exciting open-source projects.
 
 #### 📈 Stats:
-- 🔭 Currently working on **[Your current project or area of focus]**.
+- 🔭 Currently working on **Flight simulator various software and web pages**.
 - 🏆 Always striving to contribute to the community and make an impact.
 
 Let’s connect and build something amazing together! 💻✨
