@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm **@ArivenHe**!
 
-I'm a passionate **Front-End Developer** who loves to craft beautiful, interactive user experiences. Currently building and exploring innovative projects on the **Flyunion** platform. 🚀
+I'm a passionate **Full-Stack Developer** who loves to craft beautiful, interactive user experiences. Currently building and exploring innovative projects on the **Flyunion** platform. 🚀
 
 #### 🚀 What I do:
 - Write clean, elegant code using **Vue.js**, **NodeJs**, and more.
